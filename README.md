@@ -17,7 +17,7 @@ python main.py
 
 # How to do
 
-- Replace the placeholder image playlist.png in spotify-copy-playlist folder with the name of the playlist you want to copy. Ensure that the image has a margin or border close to the playlist name to improve accuracy. Check (Demo Image)[https://github.com/oxy-Op/spotify-copy-playlist/blob/master/playlist.png]
+- Replace the placeholder image playlist.png in spotify-copy-playlist folder with the name of the playlist you want to copy. Ensure that the image has a margin or border close to the playlist name to improve accuracy. Check ![Demo Image](https://github.com/oxy-Op/spotify-copy-playlist/blob/master/playlist.png)
 - After you have run main.py, make sure to go to spotify playlist with your window maximized
 - Press F4 to start
 - Leave the spotify window untouched after initiated
